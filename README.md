@@ -1,4 +1,4 @@
-# Neural Network for MNIST Digit Recognition
+# C-ANN - Neural Network for MNIST Digit Recognition
 
 This project implements a neural network for recognizing handwritten digits from the MNIST dataset. It includes forward and backward propagation, model training, and evaluation.
 

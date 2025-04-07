@@ -61,10 +61,6 @@ After training, the model is evaluated on the test dataset, and the accuracy is 
 ## Model Saving and Loading
 The trained model can be saved to a file for later use. This allows you to load the model without retraining it.
 
-### Save Model:
-```c
-saveModel("model.txt");
-```
 
 ### Load Pre-Trained Model:
 ```bash
@@ -74,9 +70,5 @@ Then, choose option 2 to test the model.
 
 ## License
 This project is open-source and available under the MIT License.
-```
-
-This version gives a general overview of the project files without diving into too much detail, making it suitable for a GitHub repository README.
-
 
 
